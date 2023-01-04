@@ -70,30 +70,7 @@ const menu = [
     price: 16.99,
     img: './images/item-9.jpeg',
     desc: `skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
-  },
-  {
-    id: 10,
-    title: 'quarantine buddy',
-    category: 'dinner',
-    price: 16.99,
-    img: './images/item-9.jpeg',
-    desc: `skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
-  },
-  {
-    id: 11,
-    title: 'еба и лягам',
-    category: 'курви',
-    price: 16.99,
-    img: './images/item-9.jpeg',
-    desc: `Ебеш и легаш`,
-  },
-  {
-    id: 12,
-    title: 'Лилиии',
-    category: 'курви',
-    price: 16.99,
-    img: './images/item-9.jpeg',
-    desc: `в гъза боли лиииии`,
   }
+  
 ];
 export default menu;
